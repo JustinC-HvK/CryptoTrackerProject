@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "brewDUM9qh+xWUikn2VZCJILRgYHsC5IaHiOUh3OFjrzxxJdeiswLUeDeuAsJkN6KI7viyH4gVErZOMaJWgY1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justi\\OneDrive\\Visual Studio\\Crypto\\Crypto.iOS\\Crypto.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\coinapi.rest.v1\\2.0.7\\coinapi.rest.v1.2.0.7.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
